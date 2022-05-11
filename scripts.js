@@ -33,7 +33,7 @@ var control = L.Routing.control({
            routeWhileDragging: true,
            units:'imperial',
            collapsible: true,
-           router: L.Routing.mapbox('pk.eyJ1IjoiZGFzMjY0IiwiYSI6ImNrdXl4NXpxYTc3Mmsyd3E2ZDZ6bm55b3cifQ.o7GVvvktEJvo_MAGbb8MCw'),
+           router: L.Routing.mapbox('pk.eyJ1IjoiZGFzMjY0IiwiYSI6ImNremYwMWQ5cjNkMncyb254dWo2cmRoeHMifQ.pVEaOoZr0WG4A61Bs9f_eg'),
       }).addTo(map);
 
 
